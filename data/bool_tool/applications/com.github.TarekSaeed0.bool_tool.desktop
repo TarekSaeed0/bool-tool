@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Bool Tool
+GenericName=Bool Tool
+Comment=Bool Tool GTK Project
+Icon=com.github.TarekSaeed0.example
+Exec=bool_tool
+Categories=GTK
+StartupNotify=true
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+	<gresource prefix="/com/github/TarekSaeed0/bool_tool">
+		<file preprocess="xml-stripblanks">ui/boolean_function_input.ui</file>
+		<file preprocess="xml-stripblanks">ui/application_window.ui</file>
+		<file>style.css</file>
+		<file>icons/hicolor/16x16/apps/com.github.TarekSaeed0.bool_tool.png</file>
+		<file>icons/hicolor/32x32/apps/com.github.TarekSaeed0.bool_tool.png</file>
+		<file>icons/hicolor/48x48/apps/com.github.TarekSaeed0.bool_tool.png</file>
+		<file>icons/hicolor/scalable/apps/com.github.TarekSaeed0.bool_tool.svg</file>
+	</gresource>
+</gresources>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="com.github.TarekSaeed0.bool_tool.svg"
+   inkscape:export-filename="\\wsl.localhost\Arch\home\tarek\documents\c\clinic_management_system\data\clinic_management_system\images\logo.png"
+   inkscape:export-xdpi="130.62857"
+   inkscape:export-ydpi="130.62857"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#1e1e2e"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.5"
+     inkscape:cx="361"
+     inkscape:cy="383"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bool_op"
+       operand-path=""
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1"
+       operation="diff"
+       swap-operands="false"
+       filltype-this="from-curve"
+       filter=""
+       filltype-operand="from-curve" />
+    <inkscape:path-effect
+       effect="bool_op"
+       operand-path=""
+       id="path-effect17"
+       is_visible="true"
+       lpeversion="1"
+       operation="union"
+       swap-operands="false"
+       filltype-this="from-curve"
+       filter=""
+       filltype-operand="from-curve" />
+    <filter
+       id="selectable_hidder_filter"
+       width="1"
+       height="1"
+       x="0"
+       y="0"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="LPE boolean visibility">
+      <feComposite
+         id="boolops_hidder_primitive"
+         result="composite1"
+         operator="arithmetic"
+         in2="SourceGraphic"
+         in="BackgroundImage" />
+    </filter>
+    <inkscape:path-effect
+       effect="bool_op"
+       operand-path=""
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1"
+       operation="union"
+       swap-operands="false"
+       filltype-this="from-curve"
+       filter=""
+       filltype-operand="from-curve" />
+    <linearGradient
+       id="linearGradient7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#94e2d5;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#49aece;stop-opacity:1;"
+         offset="0.4587332"
+         id="stop14" />
+      <stop
+         style="stop-color:#046fa4;stop-opacity:1;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       yy="true"
+       xx="false"
+       bendpath1="M 27.205914,98.6913 C 66.840839,8.775769 270.91369,8.7620926 310.58786,104.36481"
+       bendpath2="M 311.64258,54.209745 V 212.366"
+       bendpath3="M 20.279674,221.56856 C 239.08987,245.37828 157.8721,240.61904 314.39388,230.22354"
+       bendpath4="M 20.923828,54.209745 V 212.366"
+       bendpath1-nodetypes="cc"
+       bendpath3-nodetypes="cc" />
+    <rect
+       x="19.79899"
+       y="16.970563"
+       width="760.8469"
+       height="755.19004"
+       id="rect3" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="42.825495,124.95751"
+       up_right_point="56.544418,121.20198"
+       down_left_point="55.928332,128.73064"
+       down_right_point="69.024732,124.95751"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-0.69887879,117.73453"
+       up_right_point="11.628407,113.72599"
+       down_left_point="-0.69192748,132.61983"
+       down_right_point="11.628407,129.2522"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="83.983002,104.14513"
+       up_right_point="97.085829,107.91826"
+       down_left_point="83.983003,118.75846"
+       down_right_point="97.093214,121.9294"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="35.697045,125.9126"
+       up_right_point="47.244085,131.47849"
+       down_left_point="40.895157,137.14114"
+       down_right_point="52.11712,142.33604"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="82.854836,120.29033"
+       up_right_point="99.202975,124.55516"
+       down_left_point="82.854836,136.7776"
+       down_right_point="99.202975,140.35368"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="82.854836,120.29033"
+       up_right_point="99.202975,124.55516"
+       down_left_point="82.854836,136.7776"
+       down_right_point="99.202975,140.35368"
+       id="path-effect1-6"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="82.854836,120.29033"
+       up_right_point="99.202975,124.55516"
+       down_left_point="82.854836,136.7776"
+       down_right_point="99.202975,140.35368"
+       id="path-effect1-6-8"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="105.00002"
+       y1="8.4622421"
+       x2="105.00002"
+       y2="201.53772"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000026,0,0,1.0487832,-2.7366297e-4,-5.1222377)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path1"
+       cx="105"
+       cy="105"
+       r="96.538002" />
+    <path
+       id="path3"
+       style="fill:url(#linearGradient8);stroke-width:0.27096"
+       d="M 119.2537 9.5224162 C 119.79572 9.9561393 120.34659 10.377659 120.85671 10.855668 C 123.01607 12.863619 124.77436 15.069918 126.15199 17.422192 C 128.12247 20.799857 129.3199 24.474221 129.86287 28.377596 C 130.86103 35.119288 130.37723 45.484782 129.21382 60.599919 C 129.02297 63.079415 128.84241 65.559913 128.67277 68.041842 C 126.83323 67.686406 125.00428 67.371538 123.18886 67.092546 C 119.19232 66.502137 114.94175 66.060409 110.46302 65.810453 C 109.98332 65.78289 109.50222 65.75743 109.02022 65.733972 C 108.62803 65.716057 108.23555 65.699505 107.84251 65.684363 C 107.80625 60.950255 107.75475 56.215111 107.688 51.479028 C 107.59447 44.842813 107.20319 40.620914 106.5289 38.791431 C 105.85691 36.968201 104.76777 36.050428 103.27742 36.07015 C 101.65764 36.091584 100.47744 37.35833 99.753601 39.820308 C 99.06841 42.292906 98.86923 45.969431 99.080774 50.908521 C 99.351968 57.240326 99.947354 62.012619 100.88583 65.214624 C 101.79086 68.435761 104.16788 72.287011 107.84406 77.041809 C 108.25202 77.571575 108.65219 78.098993 109.04451 78.624141 C 109.5195 79.261643 109.98299 79.895982 110.4346 80.525834 C 115.94089 88.238977 119.66833 95.613622 122.02563 101.57571 C 123.36081 105.03161 124.37435 108.19397 125.05542 111.03198 C 127.12037 119.63673 128.07391 133.12745 128.68724 151.70909 C 129.1373 165.34441 129.11885 175.1361 127.92759 181.73568 C 127.07843 186.59639 125.32959 190.92817 122.49588 194.55608 C 121.5559 195.75654 120.49647 196.87778 119.31365 197.91505 C 117.90353 199.12787 116.37032 200.06722 114.76767 200.83942 A 96.538002 96.538002 0 0 0 139.5057 194.9018 C 131.31297 134.31046 133.32465 75.146988 145.56062 17.413924 A 96.538002 96.538002 0 0 0 119.2537 9.5224162 z M 83.526168 11.126969 A 96.538002 96.538002 0 0 0 64.601225 17.347262 C 67.201918 28.336094 69.344794 39.383009 70.999801 50.491492 C 66.956488 51.649514 63.021468 53.041613 59.231527 54.708805 C 58.415266 55.073981 57.605718 55.446567 56.804801 55.827083 C 66.025151 96.636032 64.532746 139.99994 52.393184 185.90286 A 96.538002 96.538002 0 0 0 94.87793 200.8141 C 91.775867 199.51495 88.997592 197.65989 86.600916 195.26043 C 85.78131 194.43992 85.004256 193.55691 84.269792 192.61253 C 82.793209 190.69782 81.556878 188.67084 80.548055 186.52867 C 78.569471 182.3307 77.482107 177.71313 77.147746 172.62461 C 76.63356 164.79942 77.234152 154.44463 78.167322 140.67772 C 78.436331 136.70907 78.655261 132.74546 78.824129 128.78645 C 81.002896 128.86278 83.209786 128.94702 85.441813 129.03502 C 87.499056 129.12696 89.565743 129.23893 91.639884 129.36988 C 94.527752 129.55068 97.395561 129.76371 100.24091 129.9931 C 100.03337 137.69188 99.749608 145.38811 99.389282 153.08213 C 99.055348 160.2126 99.083604 164.76962 99.590304 166.89937 C 100.12955 169.00894 101.21423 170.16734 102.83972 170.35859 C 104.46447 170.54976 105.71719 169.38837 106.57696 166.87457 C 107.01479 165.6508 107.36269 164.11692 107.62237 162.27123 C 107.89525 160.33211 108.07009 158.05035 108.14895 155.42617 C 108.27609 151.1959 108.27547 147.48861 108.15826 144.34106 C 107.96348 139.11264 107.44645 135.36895 106.6245 133.13399 C 105.34056 129.73238 101.81159 123.237 96.292314 115.10098 C 94.705853 112.73998 93.352544 110.74021 92.027974 108.78302 C 89.32409 104.79048 87.230182 101.6522 85.789079 99.276628 C 85.429357 98.685793 85.110313 98.141052 84.831514 97.640552 C 82.893865 94.162081 81.232377 89.415211 79.658704 83.379407 C 78.130744 77.374716 76.947159 69.624714 75.91888 60.188574 C 74.417215 46.408341 73.663081 36.522082 74.697766 29.43903 C 75.389509 24.890778 76.752477 20.748257 78.882007 17.093014 C 79.998836 15.177114 81.325029 13.397588 82.86626 11.78016 C 83.078672 11.553086 83.306794 11.345561 83.526168 11.126969 z M 171.97038 35.506877 C 164.4628 53.111622 159.46661 71.543923 157.0483 90.825981 C 162.02087 72.889063 169.62674 56.909539 180.96105 45.469059 A 96.538002 96.538002 0 0 0 171.97038 35.506877 z M 37.04425 69.088289 C 33.838523 72.135204 31.027412 75.383153 28.866455 78.700106 C 25.468517 74.827399 20.955724 71.872865 15.349967 69.818994 A 96.538002 96.538002 0 0 0 8.4620158 104.99979 A 96.538002 96.538002 0 0 0 32.193384 168.37112 C 47.55411 127.86847 49.176144 94.771418 37.04425 69.088289 z M 195.94256 72.62089 C 182.64404 74.351922 174.33 87.082518 170.13742 104.37347 C 170.83101 121.77193 175.35783 138.42351 185.31427 158.39292 A 96.538002 96.538002 0 0 0 201.53809 104.99979 A 96.538002 96.538002 0 0 0 195.94256 72.62089 z M 155.33367 120.94197 C 155.50207 140.44713 158.10072 160.75335 163.04431 181.83231 A 96.538002 96.538002 0 0 0 169.39121 176.78663 C 161.85093 157.62958 157.50023 139.35889 155.33367 120.94197 z " />
+  </g>
+</svg>

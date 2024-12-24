@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+	<requires lib="gtk" version="4.11"></requires>
+	<template class="BoolToolApplicationWindow" parent="GtkApplicationWindow">
+		<property name="title">Bool Tool</property>
+		<property name="icon-name">com.github.TarekSaeed0.bool_tool</property>
+		<property name="default-width">450</property>
+		<property name="default-height">350</property>
+		<child>
+			<object class="GtkFrame">
+				<property name="halign">center</property>
+				<property name="valign">center</property>
+				<property name="margin-top">30</property>
+				<property name="margin-bottom">30</property>
+				<property name="margin-start">30</property>
+				<property name="margin-end">30</property>
+				<child>
+					<object class="GtkBox">
+						<property name="halign">center</property>
+						<property name="valign">center</property>
+						<property name="orientation">vertical</property>
+						<property name="spacing">10</property>
+						<property name="margin-top">20</property>
+						<property name="margin-bottom">20</property>
+						<property name="margin-start">20</property>
+						<property name="margin-end">20</property>
+						<child>
+							<object class="BooleanFunctionInput" id="input">
+								<signal handler="input_changed" name="changed"></signal>
+							</object>
+						</child>
+						<child>
+							<object class="GtkButton">
+								<property name="label">Simplify</property>
+								<property name="halign">center</property>
+								<property name="valign">center</property>
+								<signal handler="simplify_button_clicked" name="clicked"></signal>
+							</object>
+						</child>
+						<child>
+							<object class="GtkBox">
+								<property name="css-classes">output</property>
+								<child>
+									<object class="GtkLabel" id="output_label">
+										<property name="margin-top">15</property>
+										<property name="margin-bottom">15</property>
+										<property name="margin-start">15</property>
+										<property name="margin-end">15</property>
+										<property name="label"></property>
+										<property name="selectable">true</property>
+									</object>
+								</child>
+							</object>
+						</child>
+					</object>
+				</child>
+			</object>
+		</child>
+	</template>
+</interface>

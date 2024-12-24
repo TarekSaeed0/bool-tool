@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+	<requires lib="gtk" version="4.11"></requires>
+	<template class="BooleanFunctionInput" parent="GtkBox">
+		<child>
+			<object class="GtkBox">
+				<property name="spacing">10</property>
+				<child>
+					<object class="GtkDropDown">
+						<property name="valign">start</property>
+						<property name="margin-top">10</property>
+						<property name="model">
+							<object class="GtkStringList">
+								<items>
+									<item translatable="yes">Expression</item>
+									<item translatable="yes">Minterms</item>
+								</items>
+							</object>
+						</property>
+						<signal handler="dropdown_selected_changed" name="notify::selected-item"></signal>
+					</object>
+				</child>
+				<child>
+					<object class="GtkStack" id="stack">
+						<property name="vhomogeneous">false</property>
+						<child>
+							<object class="GtkStackPage">
+								<property name="name">expression</property>
+								<property name="child">
+									<object class="GtkEntry" id="expression_entry">
+										<property name="width-chars">20</property>
+										<property name="placeholder-text">Expression..</property>
+										<property name="margin-top">10</property>
+									</object>
+								</property>
+							</object>
+						</child>
+						<child>
+							<object class="GtkStackPage">
+								<property name="name">minterms</property>
+								<property name="child">
+									<object class="GtkBox">
+										<property name="orientation">vertical</property>
+										<property name="spacing">10</property>
+										<property name="margin-top">10</property>
+										<child>
+											<object class="GtkEntry" id="minterms_entry">
+												<property name="width-chars">20</property>
+												<property name="placeholder-text">Minterms..</property>
+											</object>
+										</child>
+										<child>
+											<object class="GtkEntry" id="minterms_variables_entry">
+												<property name="width-chars">20</property>
+												<property name="placeholder-text">Variables..</property>
+											</object>
+										</child>
+									</object>
+								</property>
+							</object>
+						</child>
+					</object>
+				</child>
+			</object>
+		</child>
+	</template>
+</interface>
